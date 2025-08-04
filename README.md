@@ -10,5 +10,3 @@
 
 ---
 
-## 📸 Demo
-[▶️ Click to watch Simon Says Game Output]([https://gentle-empanada-c423a4.netlify.app/])
