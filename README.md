@@ -1,4 +1,4 @@
-# 🎮 Simon Says Game
+#  Simon Says Game
 
 A fun and interactive browser-based **Simon Says** memory game built using **HTML, CSS, and JavaScript**.
 
@@ -6,7 +6,7 @@ A fun and interactive browser-based **Simon Says** memory game built using **HTM
 
 ---
 
-## 🧠 Game Rules
+##  Game Rules
 
 1. Press any key to start the game.
 2. Watch the sequence of colored flashes.
@@ -17,7 +17,7 @@ A fun and interactive browser-based **Simon Says** memory game built using **HTM
 
 ---
 
-## 💡 Features
+##  Features
 
 - Colorful UI and animated buttons  
 - Real-time audio feedback  
@@ -28,7 +28,7 @@ A fun and interactive browser-based **Simon Says** memory game built using **HTM
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML5  
 - CSS3 (Flexbox + Gradients)  
@@ -37,7 +37,7 @@ A fun and interactive browser-based **Simon Says** memory game built using **HTM
 
 ---
 
-## 📸 Output Screenshot
+##  Output Screenshot
 
 <img width="934" height="404" alt="image" src="https://github.com/user-attachments/assets/f5993aa0-26d1-4f46-b1e8-c69c6aacf2d1" />
 
